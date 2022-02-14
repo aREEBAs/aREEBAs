@@ -1,12 +1,12 @@
+![reeeeee](https://user-images.githubusercontent.com/99645506/153853336-20d12dbb-77ff-4263-9d12-d2cf5ef7122b.gif)
 
-
-https://user-images.githubusercontent.com/99645506/153851983-ab5fd153-ba26-480d-a854-3cfa21c8db75.mp4
 
 - 👋 Hi, I’m @aREEBAs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning C++ and HTML
+- 💞️ Pronouns SHE/HEr
+- 📫 How to reach me lizareeba@gmail.com
+- 😊 Ask me anything 
 
 <!---
 aREEBAs/aREEBAs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
